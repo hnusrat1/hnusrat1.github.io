@@ -1,0 +1,8 @@
+title: Humza
+description: AI × Radiation Science
+theme: minima
+
+header_pages:
+  - projects.md
+  - about.md
+  - contact.md
